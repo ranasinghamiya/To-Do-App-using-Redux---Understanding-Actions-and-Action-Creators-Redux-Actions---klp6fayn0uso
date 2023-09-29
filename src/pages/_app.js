@@ -1,4 +1,5 @@
-import React from 'react';
+// pages/_app.js
+
 import { Provider } from 'react-redux';
 import store from '../redux/store';
 
